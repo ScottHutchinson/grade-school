@@ -1,7 +1,7 @@
 #include "grade_school.h"
 #define CATCH_CONFIG_MAIN
 #include <map>
-#include "test/catch.hpp"
+#include "catch.hpp"
 #define EXERCISM_RUN_ALL_TESTS
 
 using namespace std;
